@@ -1,0 +1,501 @@
+customer_id,customer_name,segment
+C0001,Rojas-Burns,SME
+C0002,"Daniel, Martin and Hardy",SME
+C0003,Edwards PLC,Consumer
+C0004,"Mendez, Reynolds and Wagner",Consumer
+C0005,Duncan Group,Corporate
+C0006,Reyes and Sons,SME
+C0007,Stephens-Fuller,SME
+C0008,Pearson-Ellison,SME
+C0009,Vega PLC,Corporate
+C0010,"Ramirez, Dunn and Brown",Consumer
+C0011,"Deleon, Hughes and Austin",Corporate
+C0012,Campbell-Mcmillan,Consumer
+C0013,Whitney-Brown,Consumer
+C0014,Evans-Kennedy,Corporate
+C0015,Hughes and Sons,SME
+C0016,Huff-Morse,Consumer
+C0017,Mitchell-Moore,Consumer
+C0018,Day-Lara,SME
+C0019,Robinson-Edwards,Corporate
+C0020,Ramirez-Jones,Consumer
+C0021,Fischer and Sons,Consumer
+C0022,"Mitchell, Pennington and Moore",Consumer
+C0023,"Mcgrath, Bradley and Johnston",SME
+C0024,Phillips-Raymond,Corporate
+C0025,Edwards PLC,SME
+C0026,Haley-Perez,Consumer
+C0027,Kennedy Ltd,Consumer
+C0028,Jackson-Terrell,Corporate
+C0029,Williams-Beck,Consumer
+C0030,Weiss Ltd,Consumer
+C0031,Ayala Group,Consumer
+C0032,Miller LLC,SME
+C0033,Gonzalez Ltd,Consumer
+C0034,"Moreno, Smith and Fernandez",Corporate
+C0035,Knox-Brown,SME
+C0036,Osborne-Allen,Corporate
+C0037,Bell Group,Corporate
+C0038,Montoya-Sanford,Consumer
+C0039,"Martinez, Peterson and Rivers",Consumer
+C0040,Torres and Sons,Corporate
+C0041,"Smith, Hartman and Johnson",Corporate
+C0042,Gonzales-Morris,Consumer
+C0043,Molina-Church,Corporate
+C0044,Byrd-Elliott,Consumer
+C0045,"Williams, Miller and Sanders",Consumer
+C0046,"Frank, White and Watson",Corporate
+C0047,Smith-Alvarez,Consumer
+C0048,Evans-Hernandez,SME
+C0049,"Perez, White and Zavala",Corporate
+C0050,Clark Ltd,Consumer
+C0051,Shaw Ltd,SME
+C0052,"Caldwell, Perez and Vega",Consumer
+C0053,Washington-Nelson,SME
+C0054,Barron-Hernandez,Corporate
+C0055,"Miller, Fischer and Johnson",Consumer
+C0056,Levy LLC,SME
+C0057,"Carter, Buckley and Stuart",SME
+C0058,Jackson-Graham,SME
+C0059,Potter-Trevino,Corporate
+C0060,"Williams, Griffin and Smith",SME
+C0061,"Wyatt, Miller and Jones",Consumer
+C0062,Mcdonald LLC,Corporate
+C0063,Perry LLC,SME
+C0064,Mathews and Sons,Corporate
+C0065,Wilson Inc,Consumer
+C0066,"Ellison, Wilkinson and Mcdonald",Corporate
+C0067,Duncan-Potter,Corporate
+C0068,Schneider PLC,Consumer
+C0069,"Martin, Johnson and Jackson",Consumer
+C0070,Ruiz-Solomon,Consumer
+C0071,"Roberts, Gonzalez and Lee",Corporate
+C0072,Mcmillan-Miranda,Corporate
+C0073,King-Chandler,Corporate
+C0074,"Nielsen, Dixon and Murphy",SME
+C0075,Lester-Medina,Corporate
+C0076,Martin Ltd,Corporate
+C0077,Stanton PLC,Consumer
+C0078,Chavez Group,Corporate
+C0079,"Turner, Bishop and Craig",SME
+C0080,Nelson-Rivera,Corporate
+C0081,"Wood, Hampton and Smith",SME
+C0082,Moreno Group,SME
+C0083,Rogers-Christian,SME
+C0084,"Sharp, Fowler and Lewis",Consumer
+C0085,"Acosta, Robbins and Shea",Consumer
+C0086,"Lyons, Lowery and Walker",Consumer
+C0087,"Johnson, Williams and Torres",SME
+C0088,"Booker, Brown and Potts",Consumer
+C0089,Washington-Martin,SME
+C0090,Oliver Inc,SME
+C0091,Mueller LLC,SME
+C0092,Hoffman Ltd,Consumer
+C0093,"Ortega, Deleon and Bright",SME
+C0094,Frost LLC,Corporate
+C0095,"Cruz, Watson and Schultz",Consumer
+C0096,Baldwin-Franklin,Corporate
+C0097,Casey Inc,Corporate
+C0098,Estrada Inc,SME
+C0099,"Carr, Baker and Smith",Corporate
+C0100,Russell-George,Corporate
+C0101,White-Flynn,Corporate
+C0102,Fletcher-Joseph,SME
+C0103,"Parks, Mcdaniel and King",Consumer
+C0104,Roy-Matthews,Corporate
+C0105,"Douglas, Garcia and Monroe",Corporate
+C0106,Maldonado-Hartman,Corporate
+C0107,Larson LLC,SME
+C0108,Stewart PLC,SME
+C0109,Lopez-Howe,Consumer
+C0110,Solis Group,Consumer
+C0111,Silva-Johnson,Corporate
+C0112,"Craig, Smith and Howell",Corporate
+C0113,Martinez and Sons,Corporate
+C0114,Mcdonald and Sons,Corporate
+C0115,Valenzuela-Soto,Corporate
+C0116,"Duarte, Ward and Jones",SME
+C0117,Williams-West,Corporate
+C0118,Anderson and Sons,Corporate
+C0119,Morales Inc,SME
+C0120,"Barnes, Lopez and Rodriguez",Corporate
+C0121,Sexton-Mendez,Corporate
+C0122,"Coleman, Little and Ryan",Consumer
+C0123,Le and Sons,Corporate
+C0124,"Ray, Wheeler and Wong",Corporate
+C0125,Tanner Group,SME
+C0126,Kane LLC,Corporate
+C0127,Williamson-Johnson,Corporate
+C0128,"Adams, Ibarra and Barton",Corporate
+C0129,Wilkerson PLC,Corporate
+C0130,Cortez PLC,SME
+C0131,"Austin, Mitchell and Watson",Corporate
+C0132,Singh LLC,Corporate
+C0133,Alexander-Wilson,SME
+C0134,"Rodriguez, Garcia and Pearson",Corporate
+C0135,Garcia LLC,SME
+C0136,"Copeland, Palmer and Gonzalez",Consumer
+C0137,Harrison PLC,Corporate
+C0138,Small-Mccoy,SME
+C0139,Petersen PLC,Consumer
+C0140,Morrison Ltd,Consumer
+C0141,Thompson LLC,SME
+C0142,Melton and Sons,SME
+C0143,Price-Reeves,Corporate
+C0144,Mcdonald Group,Consumer
+C0145,"Hicks, Abbott and Simpson",Corporate
+C0146,Banks Inc,Consumer
+C0147,Cruz Inc,Consumer
+C0148,Griffith Group,Consumer
+C0149,"Richardson, Henderson and Avila",Corporate
+C0150,"Kim, Snyder and Robles",Corporate
+C0151,Novak LLC,Corporate
+C0152,Black Inc,SME
+C0153,Hill-Lin,Consumer
+C0154,Koch Inc,Consumer
+C0155,Smith-Williams,SME
+C0156,Middleton-Jimenez,Consumer
+C0157,Rodgers Ltd,SME
+C0158,Hardy PLC,Consumer
+C0159,"Hudson, Blevins and Romero",Consumer
+C0160,Wilson and Sons,Corporate
+C0161,"Coleman, Gregory and Hunt",Consumer
+C0162,Williams LLC,SME
+C0163,Conner-Fernandez,Consumer
+C0164,Deleon-Glass,SME
+C0165,Welch PLC,Corporate
+C0166,Taylor-Levy,Consumer
+C0167,Li PLC,SME
+C0168,Moore-Jenkins,SME
+C0169,"Walker, Young and Gill",Corporate
+C0170,Anderson and Sons,SME
+C0171,Simpson and Sons,SME
+C0172,Cole-Bailey,SME
+C0173,"Owens, Dixon and Jackson",Consumer
+C0174,Vaughn LLC,Corporate
+C0175,Walker-Webb,SME
+C0176,"Thompson, Cortez and Smith",Consumer
+C0177,Kane-Dyer,SME
+C0178,Owen PLC,SME
+C0179,Hudson-Johnson,Consumer
+C0180,Wood-Miller,Corporate
+C0181,Jones Ltd,Corporate
+C0182,Barrett LLC,Consumer
+C0183,Ponce Inc,Consumer
+C0184,White-Case,Corporate
+C0185,Washington PLC,Consumer
+C0186,Smith Group,Corporate
+C0187,"Snow, Jones and Duke",SME
+C0188,Walker-Hall,Corporate
+C0189,"Kemp, Robinson and Rios",Corporate
+C0190,"White, Ford and Cole",Consumer
+C0191,Myers Ltd,SME
+C0192,"Gregory, Gardner and Richardson",Corporate
+C0193,Mcmahon Inc,Corporate
+C0194,"Esparza, Cook and Watson",SME
+C0195,Mccoy and Sons,SME
+C0196,Perez-Thomas,Corporate
+C0197,Williams LLC,Consumer
+C0198,Navarro LLC,SME
+C0199,Smith-Montoya,Corporate
+C0200,Kim-Stevenson,Corporate
+C0201,"Thompson, Marsh and Smith",Corporate
+C0202,Duncan LLC,SME
+C0203,"Franklin, Clark and Hensley",Corporate
+C0204,Smith Ltd,SME
+C0205,Kelly and Sons,SME
+C0206,"Hester, Waller and Harrison",SME
+C0207,"Walker, Allen and Pearson",Corporate
+C0208,Ryan-Olson,Consumer
+C0209,Williams and Sons,Corporate
+C0210,"Jones, Pacheco and Watson",SME
+C0211,"Sanders, Roman and Sexton",SME
+C0212,Daniels-Cervantes,SME
+C0213,King-Hogan,Consumer
+C0214,Mitchell-Morris,SME
+C0215,Conley-Kidd,Consumer
+C0216,Ruiz Inc,SME
+C0217,Pope Group,Corporate
+C0218,Flores and Sons,Corporate
+C0219,Brock and Sons,Consumer
+C0220,Williams-Long,SME
+C0221,"Wilson, Miller and Dyer",SME
+C0222,Jensen-Young,Corporate
+C0223,Peters-Lyons,Corporate
+C0224,Case-Hamilton,SME
+C0225,"Ramos, Ibarra and Rodriguez",SME
+C0226,Roberts and Sons,Consumer
+C0227,Nelson-Smith,Corporate
+C0228,West Group,Corporate
+C0229,Medina Inc,Consumer
+C0230,Suarez PLC,Consumer
+C0231,Silva-Stevenson,Corporate
+C0232,Lee Inc,Consumer
+C0233,Robertson-Martin,SME
+C0234,"Madden, Johnson and Armstrong",SME
+C0235,"Hernandez, Sparks and Jones",Consumer
+C0236,Thomas-Jones,Corporate
+C0237,Cooley-Reed,Corporate
+C0238,Castaneda-Wright,SME
+C0239,"Randolph, Peterson and Bonilla",Corporate
+C0240,Martin Inc,Corporate
+C0241,Henry-Glover,SME
+C0242,"Moore, Miller and Lewis",SME
+C0243,Ruiz and Sons,Corporate
+C0244,"Caldwell, Thomas and White",SME
+C0245,Hays-Singh,Consumer
+C0246,Hall-Smith,Consumer
+C0247,Craig Group,Corporate
+C0248,Harris PLC,Corporate
+C0249,"Bowen, Newman and Martin",Consumer
+C0250,"Gonzalez, Arellano and Bond",Consumer
+C0251,Carlson-Sanchez,Consumer
+C0252,Hernandez Group,SME
+C0253,"Kim, Freeman and Green",Corporate
+C0254,Scott-Roach,SME
+C0255,Fleming-Cooper,Consumer
+C0256,"Garner, Campbell and Stewart",SME
+C0257,Duran-Jones,Consumer
+C0258,Burgess-Edwards,Consumer
+C0259,Valdez-Willis,Consumer
+C0260,Mitchell Group,Corporate
+C0261,Hodges-Smith,SME
+C0262,Obrien-Martin,Consumer
+C0263,"Williams, Hamilton and Gutierrez",Corporate
+C0264,Ruiz Inc,Consumer
+C0265,Small-Bowman,Consumer
+C0266,Zamora LLC,SME
+C0267,"Molina, West and Brown",Consumer
+C0268,"Morris, Houston and Wright",Consumer
+C0269,Arroyo and Sons,SME
+C0270,Howard Ltd,Corporate
+C0271,Nichols LLC,Corporate
+C0272,Burke-Sanchez,Corporate
+C0273,Jones PLC,Consumer
+C0274,Johnson LLC,SME
+C0275,"Hubbard, Flores and Elliott",Consumer
+C0276,Reed-Ball,Consumer
+C0277,"Phillips, Thomas and Horton",Consumer
+C0278,"Brown, Jackson and Watson",Corporate
+C0279,Forbes-Patterson,SME
+C0280,Carr Inc,Corporate
+C0281,Henson PLC,Corporate
+C0282,Alvarez-Wright,Corporate
+C0283,"Baldwin, Lyons and Nguyen",Consumer
+C0284,Mata-Murray,Corporate
+C0285,Anderson-Mcdowell,Consumer
+C0286,"Robinson, Richards and Dennis",SME
+C0287,Fleming-Miller,SME
+C0288,Thomas Inc,SME
+C0289,"Watkins, Williams and Poole",SME
+C0290,"Allen, Simmons and Liu",SME
+C0291,Barrett-Austin,SME
+C0292,"Ortiz, Miller and Hubbard",Consumer
+C0293,"Nunez, Small and Pearson",Corporate
+C0294,Lee PLC,SME
+C0295,May Group,Corporate
+C0296,"Leonard, Lynch and Mendoza",SME
+C0297,Stevenson-Pollard,SME
+C0298,Jordan-Aguilar,Consumer
+C0299,"Harvey, West and Banks",SME
+C0300,Todd Inc,SME
+C0301,Wright-Perez,SME
+C0302,Henderson Group,SME
+C0303,"Davis, Hansen and Thornton",Corporate
+C0304,Fischer LLC,Corporate
+C0305,"Martinez, Rivera and Warner",Corporate
+C0306,Brown Ltd,Consumer
+C0307,Ramirez Group,SME
+C0308,Hernandez-Nunez,Corporate
+C0309,"Holloway, Herring and Jones",Consumer
+C0310,Rivera Inc,SME
+C0311,"Brown, Blankenship and Jones",SME
+C0312,Rodriguez LLC,Corporate
+C0313,Burch-Harrell,Consumer
+C0314,Mitchell-Cobb,Corporate
+C0315,Lamb-Jones,Corporate
+C0316,"Stevens, Lopez and Hunt",SME
+C0317,"George, Rice and Rivera",SME
+C0318,"Harris, Clayton and Robinson",SME
+C0319,"Mercado, Cross and Jones",Consumer
+C0320,Forbes-Walker,Corporate
+C0321,Larson Inc,Corporate
+C0322,"Hubbard, Turner and Erickson",Consumer
+C0323,Ortiz Inc,Corporate
+C0324,"Watkins, Cherry and Ramsey",Consumer
+C0325,"Underwood, Guzman and Lopez",SME
+C0326,Roberts-Robinson,SME
+C0327,Summers and Sons,Consumer
+C0328,Adams LLC,Consumer
+C0329,"Hernandez, Harper and Joyce",Corporate
+C0330,Ford-Sheppard,Corporate
+C0331,Lester PLC,SME
+C0332,Conley-Singleton,SME
+C0333,"Hawkins, Jimenez and Ellison",Consumer
+C0334,"Lowe, Evans and Parker",Corporate
+C0335,Weber Inc,Consumer
+C0336,Smith-Flynn,SME
+C0337,Rivers-Garza,Consumer
+C0338,"Hernandez, Armstrong and Evans",SME
+C0339,Miller-Moore,SME
+C0340,Robinson-Hale,Consumer
+C0341,"Lamb, Mills and Jenkins",Consumer
+C0342,Stafford-Reynolds,Corporate
+C0343,"Cox, Rios and Nelson",SME
+C0344,Roberts-Stevens,Consumer
+C0345,Alexander-Hayes,Consumer
+C0346,Patterson Group,Consumer
+C0347,"Le, Sanchez and Miller",SME
+C0348,Cordova Inc,Corporate
+C0349,Baker PLC,Corporate
+C0350,Mccullough and Sons,Consumer
+C0351,Smith-Thompson,SME
+C0352,Garcia-Anderson,Corporate
+C0353,"Smith, Price and Morgan",SME
+C0354,Holland Ltd,Corporate
+C0355,"Grant, Ibarra and Burns",Consumer
+C0356,Duncan-Conner,Corporate
+C0357,Mccoy PLC,SME
+C0358,"Odonnell, Byrd and Miller",SME
+C0359,Baker-Wilson,Consumer
+C0360,Chan-Shields,Corporate
+C0361,"King, Watson and Carter",Consumer
+C0362,"Chase, Guerrero and Davis",Corporate
+C0363,Fisher-Wolf,SME
+C0364,Moore-Coffey,Corporate
+C0365,Mccann Inc,SME
+C0366,Jenkins Group,Consumer
+C0367,Patterson-Jenkins,Consumer
+C0368,Perez-Rose,Consumer
+C0369,Atkins-Smith,Corporate
+C0370,"Roy, Miller and Porter",SME
+C0371,Hancock Inc,Consumer
+C0372,Anderson Ltd,SME
+C0373,"Anderson, Jones and Chandler",SME
+C0374,Woods Ltd,Consumer
+C0375,"Mcclure, Juarez and Davis",Consumer
+C0376,Graham LLC,Consumer
+C0377,"Berry, Elliott and Williams",Consumer
+C0378,Snyder PLC,Corporate
+C0379,Hall-Nguyen,SME
+C0380,Watkins PLC,Consumer
+C0381,Hampton-Meza,SME
+C0382,Hunter PLC,Consumer
+C0383,Mcknight-Williams,Corporate
+C0384,"Dorsey, Moore and Cardenas",Consumer
+C0385,Smith Group,Consumer
+C0386,"Ortiz, Smith and Gregory",Corporate
+C0387,Torres-Smith,Corporate
+C0388,"Cruz, Wilson and Stephens",Consumer
+C0389,"Gomez, Wheeler and Jones",Consumer
+C0390,"Parsons, Harrell and Wheeler",SME
+C0391,Long-Richards,SME
+C0392,Thomas-Dorsey,SME
+C0393,"Spence, Medina and Mclean",Corporate
+C0394,Mccarthy PLC,Consumer
+C0395,"Wilson, Jones and Morgan",SME
+C0396,"Orozco, Underwood and Smith",Consumer
+C0397,Johnson Group,Corporate
+C0398,Jimenez-Chandler,Corporate
+C0399,Elliott-Valdez,SME
+C0400,Gonzales Ltd,Consumer
+C0401,"Fisher, Trujillo and Curtis",Consumer
+C0402,"Baldwin, Schneider and Coleman",SME
+C0403,Patterson-Martinez,SME
+C0404,Sanchez-Smith,Consumer
+C0405,Roberts-Hawkins,Corporate
+C0406,Wilson Group,Consumer
+C0407,Crawford LLC,Corporate
+C0408,Gonzalez Ltd,SME
+C0409,Newman Inc,Consumer
+C0410,Peterson-Nicholson,SME
+C0411,Diaz-Fisher,SME
+C0412,Rodriguez LLC,SME
+C0413,Elliott and Sons,Corporate
+C0414,Snyder-Hughes,SME
+C0415,Davis-Tate,SME
+C0416,Roberts-Atkins,SME
+C0417,"Riddle, Noble and Hawkins",Corporate
+C0418,"Clark, Carroll and Johnson",SME
+C0419,Watson-Diaz,Consumer
+C0420,Perkins-Castro,Consumer
+C0421,"Marks, Mejia and Jacobs",Corporate
+C0422,Lewis LLC,Consumer
+C0423,"Salas, Berry and Irwin",SME
+C0424,Moore-Hart,Corporate
+C0425,Hernandez LLC,Corporate
+C0426,"Adams, Gonzalez and Morales",SME
+C0427,King-Butler,Consumer
+C0428,"Kim, Howe and Frazier",Corporate
+C0429,Webb-Little,Corporate
+C0430,"Long, Young and Mcneil",SME
+C0431,Montgomery LLC,Corporate
+C0432,Gallegos-Chambers,Corporate
+C0433,"Miller, Wilcox and Howard",Consumer
+C0434,"Higgins, Mcbride and Hall",SME
+C0435,Brown-Carr,SME
+C0436,Holmes Inc,SME
+C0437,Spencer LLC,SME
+C0438,Gutierrez-Woodard,Consumer
+C0439,Rodgers-Gilbert,Corporate
+C0440,"Kelley, Jackson and Stevens",SME
+C0441,Kelly-Gaines,SME
+C0442,"Mcclure, Mosley and Gallagher",Consumer
+C0443,Campbell PLC,Corporate
+C0444,White Inc,Corporate
+C0445,"Hughes, Smith and Wagner",SME
+C0446,Riley PLC,Consumer
+C0447,"Brown, Miller and Carter",SME
+C0448,Lopez-Pope,Corporate
+C0449,Baird-Kim,Corporate
+C0450,Mccarthy-Cummings,SME
+C0451,"Rios, Collins and Wilson",SME
+C0452,Moore-Williams,Corporate
+C0453,"Estes, Cuevas and Solomon",Corporate
+C0454,"Baker, Glenn and Carroll",Corporate
+C0455,Mayer-Arnold,Consumer
+C0456,Burch-Gamble,Consumer
+C0457,"King, Yang and Smith",SME
+C0458,Blackburn PLC,SME
+C0459,"Brown, Davis and Lyons",Corporate
+C0460,"Williams, James and Johnson",Corporate
+C0461,"Mitchell, Hunter and Smith",Corporate
+C0462,Ware Group,Corporate
+C0463,"Jackson, Weaver and Smith",Consumer
+C0464,Dixon Ltd,Consumer
+C0465,Rodriguez LLC,SME
+C0466,Scott-Wilcox,Consumer
+C0467,Russell-White,SME
+C0468,Leblanc-Medina,SME
+C0469,"Cook, Mccullough and Brown",Corporate
+C0470,Allison PLC,Consumer
+C0471,Lewis Group,Consumer
+C0472,Roy-Garcia,Corporate
+C0473,Valencia-Smith,SME
+C0474,Baker-Gibson,Corporate
+C0475,Graham-Bennett,Consumer
+C0476,"Williams, Parsons and Lowe",Corporate
+C0477,"Jenkins, Guzman and Campbell",Corporate
+C0478,Day-Martinez,Consumer
+C0479,"Long, Crawford and Thornton",Corporate
+C0480,Gonzalez-Boyer,Consumer
+C0481,Montgomery-Poole,SME
+C0482,Case-Christian,Corporate
+C0483,Smith Inc,Consumer
+C0484,Hamilton-Rivera,Corporate
+C0485,Pham-Carlson,Corporate
+C0486,May Ltd,Consumer
+C0487,Cannon-Gonzalez,SME
+C0488,"Reyes, Williams and Salazar",Consumer
+C0489,Bailey-Peck,Consumer
+C0490,"Cohen, Gonzalez and Martinez",Corporate
+C0491,Jones-Jones,Corporate
+C0492,"Lane, Morales and Le",Consumer
+C0493,Garrison Inc,Consumer
+C0494,Roberts-Trevino,Corporate
+C0495,Mitchell-Castro,Consumer
+C0496,"Smith, Harper and Todd",Consumer
+C0497,Li Group,Consumer
+C0498,Larson-Cannon,Consumer
+C0499,"Dixon, Sims and Lopez",SME
+C0500,"Glover, Gardner and Garcia",SME
